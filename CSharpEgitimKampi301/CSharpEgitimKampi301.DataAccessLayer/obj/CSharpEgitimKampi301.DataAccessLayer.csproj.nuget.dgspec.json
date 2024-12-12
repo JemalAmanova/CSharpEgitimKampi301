@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj",
+        "projectName": "CSharpEgitimKampi301.DataAccessLayer",
+        "projectPath": "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\jemal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\jemal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj",
+        "projectName": "CSharpEgitimKampi301.EntityLayer",
+        "projectPath": "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.EntityLayer\\CSharpEgitimKampi301.EntityLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

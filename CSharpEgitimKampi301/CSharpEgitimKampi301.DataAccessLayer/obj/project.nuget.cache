@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vJjaIPdqG9lgJT5sL7CAkoV+RQTDw1gCCOHqn8K3N6ug/PWwXOdpoE/mDM5KvBk9cM3UcWGx9VzjRgvWx3hZ8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jemal\\source\\repos\\CSharpEgitimKampi301\\CSharpEgitimKampi301.DataAccessLayer\\CSharpEgitimKampi301.DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jemal\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

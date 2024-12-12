@@ -1,0 +1,6 @@
+C:\Users\jemal\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BussinessLayer\bin\Debug\CSharpEgitimKampi301.BussinessLayer.dll
+C:\Users\jemal\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BussinessLayer\bin\Debug\CSharpEgitimKampi301.BussinessLayer.pdb
+C:\Users\jemal\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BussinessLayer\obj\Debug\CSharpEgitimKampi301.BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\jemal\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BussinessLayer\obj\Debug\CSharpEgitimKampi301.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jemal\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BussinessLayer\obj\Debug\CSharpEgitimKampi301.BussinessLayer.dll
+C:\Users\jemal\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BussinessLayer\obj\Debug\CSharpEgitimKampi301.BussinessLayer.pdb
